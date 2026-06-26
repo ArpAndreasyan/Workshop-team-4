@@ -1,3 +1,5 @@
 # Workshop-team-4
-Educational purpose Lia conflict
-Lia Conflict 
+
+Educational purpose
+1234566
+>>>>>>> Mariam-Sedrakyan
