@@ -1,2 +1,6 @@
+<<<<<<< HEAD
+line 100
+=======
 line 1
+>>>>>>> main
 add
